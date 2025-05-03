@@ -1,4 +1,4 @@
-````markdown
+
 # FastAPI Auth Demo
 
 This is a simple FastAPI project demonstrating basic authentication using JWT (JSON Web Tokens), SQLite, and SQLAlchemy.
@@ -18,7 +18,7 @@ Clone the repository and install dependencies.
 ```bash
 git clone https://github.com/YOUR_USERNAME/fastapi-auth-demo.git
 cd fastapi-auth-demo
-````
+```
 
 ### 2. Install dependencies:
 
