@@ -71,8 +71,3 @@ uvicorn main:app --reload
 ## 📄 License
 
 MIT License. See the LICENSE file for more details.
-
-```
-
-Now, you can just copy and paste the above into your `README.md` file.
-```
